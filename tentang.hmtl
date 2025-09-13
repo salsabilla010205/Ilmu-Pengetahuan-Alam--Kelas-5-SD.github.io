@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tentang Website</title>
+  <link rel="stylesheet" href="tentang.css">
+</head>
+<body>
+  <header>
+    <h1>Tentang Website</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Beranda</a></li>
+        <li><a href="materi.html">Materi</a></li>
+        <li><a href="kuis.html">Kuis</a></li>
+        <li><a href="tentang.html">Tentang</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="tentang">
+      <h2>Tujuan Website</h2>
+      <p>Website ini dibuat untuk membantu siswa kelas 5 SD dalam mempelajari Ilmu Pengetahuan Alam dengan pendekatan <b>kooperatif</b>. 
+      Siswa dapat belajar bersama, berdiskusi, dan saling membantu memahami materi IPA.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Pembelajaran IPA Kelas 5 SD</p>
+  </footer>
+</body>
+</html>
